@@ -2,6 +2,8 @@
 
 Source code for UniFed
 
+![network architecture](/figures/overall_figure.png)
+
 If you use code from this repository please cite:
 
 ```
@@ -23,4 +25,3 @@ Software Versions:
 
 - Python 3.6.8
 
-![network architecture](/figures/architecture.png)
